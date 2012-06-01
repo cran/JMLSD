@@ -1,0 +1,9 @@
+be8c028d8104239d1de802a11bb89d60 *DESCRIPTION
+70efee9417b36ebebef28e2b2bed8bc0 *NAMESPACE
+9e110559239b6c8d104efcc62e69b4f5 *R/1_classes.R
+dad701a485ea6e1d3c58826eaab40e6d *R/2_methods.R
+a3479d6637f1a14e6d6e984fdc0eb41b *R/3_functions.R
+7499d214c3a8abbf207ce581cda203d3 *man/JMLSD-package.Rd
+d8a8fe5c306104df998a8e2649462a48 *man/powerLongSurv-class.Rd
+017b63e13a8f15ab792c607cf55aabdd *man/powerLongSurv.Rd
+98b03683d9118cbc5a55b3fa842311ee *man/show-methods.Rd
